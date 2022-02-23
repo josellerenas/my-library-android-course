@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Peke/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/activity_all_books.xml" value="0.22" />
+        <entry key="..\:/Users/Peke/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/activity_already_read_book.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Peke/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/activity_book.xml" value="0.4002333722287048" />
+        <entry key="..\:/Users/Peke/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/activity_currently_reading_books.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Peke/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/activity_favorite_books.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Peke/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/Peke/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/activity_want_to_read.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Peke/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/activity_website.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Peke/AndroidStudioProjects/MyLibrary/app/src/main/res/layout/list_item_book.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
